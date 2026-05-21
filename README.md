@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="github_profile_banner.png" alt="TriDev Banner" width="100%" style="border-radius: 10px;" />
+  <img src="github_profile_banner.png" alt="TriDev Banner" width="80%" style="border-radius: 10px;" />
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -109,7 +110,7 @@
 ### 🐍 Game Đóng Góp (Contribution Grid Snake)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tritin5987/tritin5987/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/tritin5987/tritin5987/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="85%" />
 </p>
 
 ---
