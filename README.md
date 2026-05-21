@@ -22,8 +22,8 @@
   <a href="https://www.facebook.com/zalo0988342551" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-B%C3%B9i%20D%C6%B0%C6%A1ng%20Tr%C3%AD-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:tritin5987@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-tritin5987@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:bdtcloner1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-bdtcloner1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
