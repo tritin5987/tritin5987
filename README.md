@@ -89,55 +89,9 @@
 
 </div>
 
----
-
-### 📊 Thống Kê Hoạt Động (GitHub Stats)
-
-<p align="center">
-  <a href="https://github.com/tritin5987">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tritin5987&show_icons=true&theme=tokyonight&locale=en" alt="tritin5987's GitHub Stats" height="195px" />
-  </a>
-  <a href="https://github.com/tritin5987">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tritin5987&layout=compact&theme=tokyonight&locale=en" alt="tritin5987's Top Languages" height="195px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tritin5987">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tritin5987&theme=tokyonight" alt="GitHub Streak" width="100%" />
-  </a>
-</p>
 
 ---
 
-### 🐍 Game Đóng Góp (Contribution Grid Snake)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tritin5987/tritin5987/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="85%" />
-</p>
-
----
-
-### 📂 Các Dự Án Tiêu Biểu (Featured Repositories)
-
-<p align="center">
-  <a href="https://github.com/tritin5987/Music_BackEnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tritin5987&repo=Music_BackEnd&theme=tokyonight" alt="Music_BackEnd Card" height="120px" />
-  </a>
-  <a href="https://github.com/tritin5987/Music_FrontEnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tritin5987&repo=Music_FrontEnd&theme=tokyonight" alt="Music_FrontEnd Card" height="120px" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/tritin5987/webshop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tritin5987&repo=webshop&theme=tokyonight" alt="webshop Card" height="120px" />
-  </a>
-  <a href="https://github.com/tritin5987/DACN_Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tritin5987&repo=DACN_Java&theme=tokyonight" alt="DACN_Java Card" height="120px" />
-  </a>
-</p>
-
----
 
 <p align="center">
   Được thiết kế với ❤️ bởi <a href="https://tridev.id.vn">TriDev</a>. Cảm ơn bạn đã ghé thăm! Hãy để lại một 🌟 nếu bạn thấy thú vị!
