@@ -28,28 +28,12 @@
 
 ### 💫 Về Tôi (About Me)
 
-<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td width="60%" style="border: none; vertical-align: top; padding-right: 20px; background: transparent;">
-      Tôi là một <strong>Backend Developer</strong> đang chủ động học hỏi thêm về <strong>Frontend (Web & Mobile)</strong> thông qua việc làm chủ và ứng dụng các công cụ <strong>AI hỗ trợ lập trình</strong>. Với nền tảng Backend (Java) vững chắc, tôi luôn hướng tới việc tối ưu hóa hiệu suất và hoàn thiện trải nghiệm lập trình toàn diện.
-      <br/><br/>
-      <ul>
-        <li>🔭 <strong>Dự án hiện tại:</strong> Đang tối ưu hóa hệ thống Webshop & phát triển các ứng dụng nghe nhạc trực tuyến sử dụng các giải pháp hỗ trợ bởi AI.</li>
-        <li>💼 <strong>Website cá nhân:</strong> Ghé thăm portfolio của tôi tại <a href="https://tridev.id.vn">tridev.id.vn</a>.</li>
-        <li>💬 <strong>Lĩnh vực quan tâm:</strong> Backend Architecture (Spring Boot), Frontend Development (Flutter, JavaScript, AI-Driven Coding).</li>
-        <li>⚡ <strong>Châm ngôn:</strong> <em>"Code is like humor. When you have to explain it, it’s bad."</em></li>
-      </ul>
-    </td>
-    <td width="40%" style="border: none; vertical-align: top; background: rgba(156, 39, 176, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #9C27B0;">
-      <h4 align="center" style="margin-top: 0; color: #9C27B0;">🎯 Định Hướng Học Tập 2026</h4>
-      <ul style="padding-left: 20px; margin: 0;">
-        <li>Học sâu **Frontend** (React, JS/TS, CSS) sử dụng các trợ lý **AI**</li>
-        <li>Tối ưu hóa hiệu năng và cấu trúc code Frontend tự động bằng AI</li>
-        <li>Nâng cao kiến thức nâng cao về **Microservices Architecture**</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Tôi là một <strong>Backend Developer</strong> đang chủ động học hỏi thêm về <strong>Frontend (Web & Mobile)</strong> thông qua việc làm chủ và ứng dụng các công cụ <strong>AI hỗ trợ lập trình</strong>. Với nền tảng Backend (Java) vững chắc, tôi luôn hướng tới việc tối ưu hóa hiệu suất và hoàn thiện trải nghiệm lập trình toàn diện.
+
+- 🔭 **Dự án hiện tại:** Đang tối ưu hóa hệ thống Webshop & phát triển các ứng dụng nghe nhạc trực tuyến sử dụng các giải pháp hỗ trợ bởi AI.
+- 💼 **Website cá nhân:** Ghé thăm portfolio của tôi tại [tridev.id.vn](https://tridev.id.vn).
+- 💬 **Lĩnh vực quan tâm:** Backend Architecture (Spring Boot), Frontend Development (Flutter, JavaScript, AI-Driven Coding).
+- ⚡ **Châm ngôn:** *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
 
