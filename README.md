@@ -9,11 +9,15 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tritin5987&color=9C27B0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://tridev.id.vn" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-tridev.id.vn-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.facebook.com/zalo0988342551" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Bùi%20Dương%20Trí-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-B%C3%B9i%20D%C6%B0%C6%A1ng%20Tr%C3%AD-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:tritin5987@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-tritin5987@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -23,49 +27,67 @@
 ---
 
 ### 💫 Về Tôi (About Me)
-Tôi là một **Full-Stack Developer** đam mê lập trình và phát triển các sản phẩm công nghệ chất lượng cao. Với nền tảng vững chắc về phát triển Backend (Java) và phát triển Mobile/Web frontend (Flutter, Dart, JavaScript), tôi luôn nỗ lực tối ưu hóa hiệu năng sản phẩm và mang lại trải nghiệm người dùng tuyệt vời nhất.
 
-- 🔭 **Dự án hiện tại:** Đang phát triển và tối ưu hóa hệ thống Webshop & các ứng dụng nghe nhạc trực tuyến (Music_BackEnd, Music_FrontEnd).
-- 💼 **Website cá nhân:** Ghé thăm portfolio của tôi tại [tridev.id.vn](https://tridev.id.vn).
-- 🌱 **Đang học hỏi:** Tìm hiểu sâu hơn về kiến trúc Microservices, Docker, Cloud và tối ưu hóa các ứng dụng Flutter phức tạp.
-- 💬 **Lĩnh vực quan tâm:** Web Development, Mobile App Development (Flutter), Backend Architecture (Spring Boot / Java EE).
-- ⚡ **Châm ngôn:** *"Code is like humor. When you have to explain it, it’s bad."*
-
----
-
-### 🛠️ Kỹ Năng Lập Trình (Tech Stack)
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <h4>💻 Languages</h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <br/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="60%" style="border: none; vertical-align: top; padding-right: 20px; background: transparent;">
+      Tôi là một <strong>Full-Stack Developer</strong> đam mê lập trình và phát triển các sản phẩm công nghệ chất lượng cao. Với nền tảng vững chắc về phát triển Backend (Java) và phát triển Mobile/Web frontend (Flutter, Dart, JavaScript), tôi luôn nỗ lực tối ưu hóa hiệu năng sản phẩm và mang lại trải nghiệm người dùng tuyệt vời nhất.
+      <br/><br/>
+      <ul>
+        <li>🔭 <strong>Dự án hiện tại:</strong> Đang phát triển và tối ưu hóa hệ thống Webshop & các ứng dụng nghe nhạc trực tuyến (Music_BackEnd, Music_FrontEnd).</li>
+        <li>💼 <strong>Website cá nhân:</strong> Ghé thăm portfolio của tôi tại <a href="https://tridev.id.vn">tridev.id.vn</a>.</li>
+        <li>💬 <strong>Lĩnh vực quan tâm:</strong> Web Development, Mobile App Development (Flutter), Backend Architecture (Spring Boot / Java EE).</li>
+        <li>⚡ <strong>Châm ngôn:</strong> <em>"Code is like humor. When you have to explain it, it’s bad."</em></li>
+      </ul>
     </td>
-    <td align="center" width="33%" valign="top">
-      <h4>🚀 Frameworks & Libs</h4>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" /> <br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <br/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <br/>
-      <img src="https://img.shields.io/badge/Servlet_/_JSP-ED8B00?style=flat-square&logo=oracle&logoColor=white" alt="Servlet/JSP" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h4>🛠️ Tools & Environments</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <br/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <br/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <br/>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+    <td width="40%" style="border: none; vertical-align: top; background: rgba(156, 39, 176, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #9C27B0;">
+      <h4 align="center" style="margin-top: 0; color: #9C27B0;">🎯 Định Hướng Học Tập 2026</h4>
+      <ul style="padding-left: 20px; margin: 0;">
+        <li>Nâng cao kiến thức về <strong>Microservices Architecture</strong></li>
+        <li>Tối ưu hóa performance và cấu trúc của <strong>Flutter Core</strong></li>
+        <li>Triển khai quy trình <strong>CI/CD</strong> chuyên nghiệp bằng GitHub Actions & Docker</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Thống Kê Hoạt Động GitHub (GitHub Live Stats)
+### 🛠️ Kỹ Năng Lập Trình (Tech Stack)
+
+<div align="center">
+  
+  #### 💻 Languages & Databases
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
+  #### 🚀 Frameworks & Libraries
+  
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Servlet/JSP](https://img.shields.io/badge/Servlet_/_JSP-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
+  
+  #### ⚙️ Devops & Tools
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Thống Kê Hoạt Động (GitHub Stats)
 
 <p align="center">
   <a href="https://github.com/tritin5987">
@@ -84,15 +106,35 @@ Tôi là một **Full-Stack Developer** đam mê lập trình và phát triển 
 
 ---
 
+### 🐍 Game Đóng Góp (Contribution Grid Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tritin5987/tritin5987/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+---
+
 ### 📂 Các Dự Án Tiêu Biểu (Featured Repositories)
 
-- 🎵 **[Music_BackEnd](https://github.com/tritin5987/Music_BackEnd)**: Hệ thống API Backend chuyên nghiệp cho ứng dụng nghe nhạc trực tuyến sử dụng **Java**.
-- 📱 **[Music_FrontEnd](https://github.com/tritin5987/Music_FrontEnd)**: Ứng dụng nghe nhạc trực quan, mượt mà viết bằng **Flutter & Dart**.
-- 🛒 **[webshop](https://github.com/tritin5987/webshop)**: Dự án Web bán hàng tích hợp các chức năng quản lý, đặt hàng hiện đại bằng **JavaScript**.
-- ☕ **[Java / DACN_Java](https://github.com/tritin5987/DACN_Java)**: Các dự án và bài tập đồ án chuyên sâu về lập trình ứng dụng Java doanh nghiệp.
+<p align="center">
+  <a href="https://github.com/tritin5987/Music_BackEnd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tritin5987&repo=Music_BackEnd&theme=tokyonight" alt="Music_BackEnd Card" height="120px" />
+  </a>
+  <a href="https://github.com/tritin5987/Music_FrontEnd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tritin5987&repo=Music_FrontEnd&theme=tokyonight" alt="Music_FrontEnd Card" height="120px" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/tritin5987/webshop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tritin5987&repo=webshop&theme=tokyonight" alt="webshop Card" height="120px" />
+  </a>
+  <a href="https://github.com/tritin5987/DACN_Java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tritin5987&repo=DACN_Java&theme=tokyonight" alt="DACN_Java Card" height="120px" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  Được thiết kế với ❤️ bởi <a href="https://tridev.id.vn">TriDev</a>. Hãy để lại một 🌟 nếu bạn thấy thú vị!
+  Được thiết kế với ❤️ bởi <a href="https://tridev.id.vn">TriDev</a>. Cảm ơn bạn đã ghé thăm! Hãy để lại một 🌟 nếu bạn thấy thú vị!
 </p>
