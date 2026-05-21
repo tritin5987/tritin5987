@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+B%C3%B9i+D%C6%B0%C6%A1ng+Tr%C3%AD;A+Full+Stack+Developer;Welcome+to+my+Github+Profile!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+B%C3%B9i+D%C6%B0%C6%A1ng+Tr%C3%AD;Backend+Developer;Learning+Frontend+with+AI+💻;Welcome+to+my+Github!+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,21 +35,21 @@
 <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
     <td width="60%" style="border: none; vertical-align: top; padding-right: 20px; background: transparent;">
-      Tôi là một <strong>Full-Stack Developer</strong> đam mê lập trình và phát triển các sản phẩm công nghệ chất lượng cao. Với nền tảng vững chắc về phát triển Backend (Java) và phát triển Mobile/Web frontend (Flutter, Dart, JavaScript), tôi luôn nỗ lực tối ưu hóa hiệu năng sản phẩm và mang lại trải nghiệm người dùng tuyệt vời nhất.
+      Tôi là một <strong>Backend Developer</strong> đang chủ động học hỏi thêm về <strong>Frontend (Web & Mobile)</strong> thông qua việc làm chủ và ứng dụng các công cụ <strong>AI hỗ trợ lập trình</strong>. Với nền tảng Backend (Java) vững chắc, tôi luôn hướng tới việc tối ưu hóa hiệu suất và hoàn thiện trải nghiệm lập trình toàn diện.
       <br/><br/>
       <ul>
-        <li>🔭 <strong>Dự án hiện tại:</strong> Đang phát triển và tối ưu hóa hệ thống Webshop & các ứng dụng nghe nhạc trực tuyến (Music_BackEnd, Music_FrontEnd).</li>
+        <li>🔭 <strong>Dự án hiện tại:</strong> Đang tối ưu hóa hệ thống Webshop & phát triển các ứng dụng nghe nhạc trực tuyến sử dụng các giải pháp hỗ trợ bởi AI.</li>
         <li>💼 <strong>Website cá nhân:</strong> Ghé thăm portfolio của tôi tại <a href="https://tridev.id.vn">tridev.id.vn</a>.</li>
-        <li>💬 <strong>Lĩnh vực quan tâm:</strong> Web Development, Mobile App Development (Flutter), Backend Architecture (Spring Boot / Java EE).</li>
+        <li>💬 <strong>Lĩnh vực quan tâm:</strong> Backend Architecture (Spring Boot), Frontend Development (Flutter, JavaScript, AI-Driven Coding).</li>
         <li>⚡ <strong>Châm ngôn:</strong> <em>"Code is like humor. When you have to explain it, it’s bad."</em></li>
       </ul>
     </td>
     <td width="40%" style="border: none; vertical-align: top; background: rgba(156, 39, 176, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #9C27B0;">
       <h4 align="center" style="margin-top: 0; color: #9C27B0;">🎯 Định Hướng Học Tập 2026</h4>
       <ul style="padding-left: 20px; margin: 0;">
-        <li>Nâng cao kiến thức về <strong>Microservices Architecture</strong></li>
-        <li>Tối ưu hóa performance và cấu trúc của <strong>Flutter Core</strong></li>
-        <li>Triển khai quy trình <strong>CI/CD</strong> chuyên nghiệp bằng GitHub Actions & Docker</li>
+        <li>Học sâu **Frontend** (React, JS/TS, CSS) sử dụng các trợ lý **AI**</li>
+        <li>Tối ưu hóa hiệu năng và cấu trúc code Frontend tự động bằng AI</li>
+        <li>Nâng cao kiến thức nâng cao về **Microservices Architecture**</li>
       </ul>
     </td>
   </tr>
