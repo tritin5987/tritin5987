@@ -6,11 +6,7 @@
 
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+B%C3%B9i+D%C6%B0%C6%A1ng+Tr%C3%AD;Backend+Developer;Learning+Frontend+with+AI+💻;Welcome+to+my+Github!+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tritin5987&color=9C27B0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
