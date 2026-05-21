@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="github_profile_banner.png" alt="TriDev Banner" width="100%" style="border-radius: 10px;" />
+  <img src="github_profile_banner.png" alt="TriDev Banner" width="687" style="border-radius: 10px;" />
 </p>
+
 
 
 
